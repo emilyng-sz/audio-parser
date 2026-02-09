@@ -1,0 +1,10 @@
+ctranslate2==4.5.0
+faster-whisper==1.0.3
+httpx==0.23.0
+moviepy==2.2.1
+numpy==1.26.4
+requests==2.32.5
+pydub==0.25.1
+pytubefix==10.3.6
+torch==2.4.1 --index-url https://download.pytorch.org/whl/cpu
+youtube-search-python==1.6.6
