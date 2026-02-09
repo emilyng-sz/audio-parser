@@ -1,0 +1,5 @@
+models*
+__pycache__*
+venv*
+media_files*
+json_output_files*
